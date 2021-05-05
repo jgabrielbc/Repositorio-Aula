@@ -1,0 +1,19 @@
+{
+  "name": "repositorio-aula",
+  "version": "1.0.0",
+  "description": "Meu primeiro App node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgabrielbc/Repositorio-Aula.git"
+  },
+  "author": "João Gabriel de Borba Coelho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgabrielbc/Repositorio-Aula/issues"
+  },
+  "homepage": "https://github.com/jgabrielbc/Repositorio-Aula#readme"
+}
